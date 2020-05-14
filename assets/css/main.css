@@ -3258,11 +3258,11 @@ input, select, textarea {
 
 			.feature {
 				margin-bottom: 1em;
+				background: rgb(0, 155, 21);
 			}
 
 				.feature .content {
 					padding: 2em 1em !important;
-					color: black;
 				}
 
 		/* Main */
