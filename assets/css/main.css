@@ -2608,6 +2608,7 @@ input, select, textarea {
 
 	.feature {
 		position: relative;
+		background: rgb(0, 155, 21);
 		height: 25em;
 	}
 
