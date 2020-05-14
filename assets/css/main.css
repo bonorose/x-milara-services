@@ -2607,8 +2607,8 @@ input, select, textarea {
 /* Feature */
 
 	.feature {
+		background-color: rgb(0, 155, 21);
 		position: relative;
-		background: rgb(0, 155, 21);
 		height: 25em;
 	}
 
