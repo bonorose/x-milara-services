@@ -2592,7 +2592,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
+		background: inherit;
 		border: solid 1px rgba(224, 224, 224, 0.75);
 		margin-bottom: 6em;
 		padding: 3.5em;
@@ -3142,7 +3142,7 @@ input, select, textarea {
 		/* Feature */
 
 			.feature {
-				background: #ffffff;
+				background: rgb(0, 155, 21);
 				display: block;
 				height: auto;
 				margin-bottom: 2em;
@@ -3262,6 +3262,7 @@ input, select, textarea {
 
 				.feature .content {
 					padding: 2em 1em !important;
+					color: black;
 				}
 
 		/* Main */
